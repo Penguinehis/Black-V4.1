@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.base1.compatstyle" >
+
+    <application>
+      
+		<activity
+            android:name="com.base1.compatstyle.NotImplemented"
+        />
+		
+    </application>
+
+</manifest>
+
